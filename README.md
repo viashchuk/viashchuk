@@ -8,10 +8,10 @@ I'm a front-end developer from Warsaw, Poland
 ## My skills: :rocket:
 
 <pre>
-- HTML5, CSS3 (PostCSS/SASS)                ⭐️⭐️⭐️⭐️⭐️
-- Vanilla JavaScript (ES6+, ESNext), jQuery ⭐️⭐️⭐️⭐️⭐️
-- Vue.js, Nuxt (SSR), Vuex, Gatsby          ⭐️⭐️⭐️⭐️
-- Webpack, Yarn, Gulp                       ⭐️⭐️⭐️⭐️⭐️
-- Jest, Cypress                             ⭐️⭐️⭐️
-- React                                     ⭐️⭐️⭐️
+- HTML5, CSS3 (PostCSS/SASS) ⭐️⭐️⭐️⭐️⭐️
+- Vanilla JavaScript, jQuery ⭐️⭐️⭐️⭐️⭐️
+- Vue.js, Nuxt (SSR), Vuex   ⭐️⭐️⭐️⭐️
+- Webpack, Yarn, Gulp        ⭐️⭐️⭐️⭐️⭐️
+- Jest, Cypress              ⭐️⭐️⭐️
+- React, Gatsby              ⭐️⭐️⭐️
 </pre>

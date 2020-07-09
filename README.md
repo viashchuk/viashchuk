@@ -2,8 +2,10 @@
 
 I'm a front-end developer from Warsaw, Poland
 
-<p>- 💖 I love Vue.js and pixel perfect HTML/CSS
-- 🌱 I'm currently learning React and Laravel</p>
+<p>
+- 💖 I love Vue.js and pixel perfect HTML/CSS<br/>
+- 🌱 I'm currently learning React and Laravel
+</p>
 
 ## My skills: :rocket:
 

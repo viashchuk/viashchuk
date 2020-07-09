@@ -7,12 +7,9 @@ I'm a front-end developer from Warsaw, Poland
 
 ## My skills: :rocket:
 
-- HTML5, CSS3 (PostCSS/SASS) ⭐️⭐️⭐️⭐️⭐️
-- TailwindCSS - utility-based CSS, BEM ⭐️⭐️⭐️⭐️⭐️
-- Responsive UI, Cross Browser Compatibility ⭐️⭐️⭐️⭐️⭐️
+- HTML5, CSS3 (PostCSS/SASS)                ⭐️⭐️⭐️⭐️⭐️
 - Vanilla JavaScript (ES6+, ESNext), jQuery ⭐️⭐️⭐️⭐️⭐️
-- Vue.js, Nuxt (SSR), Vuex, Gatsby ⭐️⭐️⭐️⭐️
-- Webpack, Yarn, Gulp ⭐️⭐️⭐️⭐️⭐️
-- Git, CI-CD ⭐️⭐️⭐️⭐️⭐️
-- Jest, Cypress ⭐️⭐️⭐️
-- React ⭐️⭐️⭐️
+- Vue.js, Nuxt (SSR), Vuex, Gatsby          ⭐️⭐️⭐️⭐️
+- Webpack, Yarn, Gulp                       ⭐️⭐️⭐️⭐️⭐️
+- Jest, Cypress                             ⭐️⭐️⭐️
+- React                                     ⭐️⭐️⭐️

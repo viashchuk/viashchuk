@@ -7,7 +7,7 @@ I'm a front-end developer from Warsaw, Poland
 - 🌱 I'm currently learning React and Laravel
 </p>
 
-## My skills: :rocket:
+## :rocket: My skills:
 
 <pre>
 - HTML5, CSS3 (PostCSS/SASS) ⭐️⭐️⭐️⭐️⭐️

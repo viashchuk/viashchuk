@@ -13,8 +13,8 @@ I'm a front-end developer from Warsaw, Poland
 - HTML5, CSS3 (PostCSS/SASS) ⭐️⭐️⭐️⭐️⭐️
 - Tailwind CSS, Bootstrap    ⭐️⭐️⭐️⭐️⭐️
 - Vanilla JavaScript, jQuery ⭐️⭐️⭐️⭐️⭐️
-- Vue.js, Nuxt (SSR), Vuex   ⭐️⭐️⭐️⭐️
+- Vue.js, Nuxt (SSR), Vuex   ⭐️⭐️⭐️⭐️⭐️
 - Webpack, Yarn, Gulp        ⭐️⭐️⭐️⭐️⭐️
 - Jest, Cypress              ⭐️⭐️⭐️
-- React, Gatsby              ⭐️⭐️⭐️
+- React, Gatsby              ⭐️⭐️⭐️⭐️
 </pre>

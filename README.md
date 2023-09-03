@@ -1,4 +1,4 @@
-# Hi! I'm Victoria Iashchuk 👋
+# Hi! I'm Viki 👋
 
 I'm a front-end developer from Warsaw, Poland
 

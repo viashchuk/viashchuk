@@ -1,10 +1,10 @@
 # Hi! I'm Viki 👋
 
-I'm a front-end developer from Warsaw, Poland
+I'm a full-stack developer with an eye for design
 
 <p>
-- 💖 I love Vue.js and pixel perfect HTML/CSS<br/>
-- 🌱 I'm currently learning React and Ruby
+- I love Vue.js and pixel perfect HTML/CSS<br/>
+- I'm currently working with Ruby on Rails
 </p>
 
 ## :rocket: My skills:
@@ -12,9 +12,10 @@ I'm a front-end developer from Warsaw, Poland
 <pre>
 - HTML5, CSS3 (PostCSS/SASS) ⭐️⭐️⭐️⭐️⭐️
 - Tailwind CSS, Bootstrap    ⭐️⭐️⭐️⭐️⭐️
-- Vanilla JavaScript, jQuery ⭐️⭐️⭐️⭐️⭐️
-- Ruby on Rails              ⭐️⭐️⭐️⭐️
+- Vanilla JavaScript         ⭐️⭐️⭐️⭐️⭐️
+- Ruby on Rails              ⭐️⭐️⭐️⭐️⭐️
 - Vue.js, Nuxt (SSR), Vuex   ⭐️⭐️⭐️⭐️⭐️
+- Svelte                     ⭐️⭐️⭐️⭐️⭐️
 - Webpack, Yarn, Gulp        ⭐️⭐️⭐️⭐️⭐️
 - Jest, Cypress              ⭐️⭐️⭐️
 - React, Gatsby              ⭐️⭐️⭐️⭐️
